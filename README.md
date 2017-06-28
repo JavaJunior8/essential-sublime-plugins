@@ -56,3 +56,74 @@ Just in case you want to open a terminal in the directory of your current file, 
 This is probably the most useful plugin for programmers. SublimeREPL lets you run an interpreter of a range of languages (NodeJS, Python, Ruby, Scala and Haskell to name a few) right inside Sublime Text. Let us run a Python interpreter and see if it works. Perform some list checks and computed 48 raised to the power 100.
 
 ![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/7.png)
+
+
+### ```8. ColorPicker``` 
+Usually, if you want to use a color picker you probably open Photoshop or GIMP and use the built-in color picker there. The ColorPicker plugin lets you use a color picker within Sublime Text! After installation, just press ```sh Ctrl/Cmd + Shift + c```.
+
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/8.png)
+
+### ```9. MarkdownPreview``` 
+Although many developers prefer to create Markdown files in the cloud (GitHub Gists, StackEdit, Markable), this is for the ‘old school’ writers who prefer to keep their files locally. Although MarkdownPreview is primarily to preview Markdown files, you can go one step further and install [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing), which gives you proper color highlighting.
+
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/9.png)
+
+### ```10. DocBlockr``` 
+If you follow coding guidelines strictly, this is one plugin that makes your task easier. DocBlokr helps you in creating proper comments for your code, by parsing the functions, parameters, variables, and automatically adding the basic items. Start with “/**” and DocBlockr does the rest for you. For instance, check how DocBlockr makes my life easier by creating a format for me to fill based on my comment.
+
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/10.png)
+
+
+### ``` 11. Todo​Review```
+
+Simple: A SublimeText plugin for reviewing TODO (and other) comments within your code.
+
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/11.png)
+
+### ``` 12. CSScomb```
+
+Want to format your CSS with the click of a button so it is properly formatted per WordPress's coding standards? This is the appropiate plugin for do that.
+
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/14.png)
+
+### ``` 13. SublimeLinter```
+
+SublimeLinter is a plugin for Sublime Text 3 that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
+
+The documentation for SublimeLinter is divided into two sections: one for users, and one for developers who would like to create their own linter plugins.
+
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/13.png)
+
+### ``` 14. SideBarEnhancements```
+
+This plugin provides enhancements to the operations on Sidebar of Files and Folders for Sublime Text.
+
+Move to trash
+Clipboard
+Open in browser
+Copy the content of a file as data:uri base64
+Close, move, open and restore buffers affected by a rename/move command
+Copy as tags img/a/script/style
+Duplicate
+Preference to control if a buffer should be closed when affected by a deletion operation
+Allows to display "file modified date" and "file size" on statusbar
+
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/12.png)
+
+### ``` 15. Sublime SFTP```
+
+Spend less time managing file transfers and more time coding. FTP, FTPS and SFTP support for Sublime Text 2 & 3 that is blazing fast, with smart features, flexible workflow options and top-notch support.
+
+* Work off of a server – edit and manipulate files and folders
+* Map a local folder to a remote folder
+	- Publish files, folders, or just the changes since your last commit
+	- Sync folders – up, down or both directions
+	- Diff local vs. remote versions of a file
+	- Other operations and options to help you get stuff done
+* Password and SSH key auth with SSH agent support
+* Persistent connections for performance	
+
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/15.png)
+
+
+With this, we come to the end of our list of plugins to boost your productivity.
