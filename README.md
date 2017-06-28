@@ -126,4 +126,4 @@ Spend less time managing file transfers and more time coding. FTP, FTPS and SFTP
 ![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/15.png)
 
 
-With this, we come to the end of our list of plugins to boost your productivity.
+# With this, we come to the end of our list of plugins to boost your productivity.
