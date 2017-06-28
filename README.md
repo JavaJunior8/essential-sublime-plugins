@@ -27,8 +27,26 @@ With GitGutter, you can see which lines have been added, deleted or modified in 
 ![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/3.png)
 
 
+### ```4. Emmet```
+
+Emmet is a useful plugin that saves time by making you write less, thus increasing your productivity. Emmet is available for other text editors like Notepad++ and Eclipse.
+
+There are a [lot of things](http://www.hongkiat.com/blog/html-css-faster-emmet/) that you can accomplish with Emmet, but I will just tell you my favorite here. Type ```sh html:5``` and press ```sh Ctrl/Cmd + e```, and it is expanded to a basic HTML 5 page template. Simple!
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/4.png)
 
 
+### ```5. AllAutocompletet```
 
-# essential-sublime-plugins
-10 Essential Sublime Text Plugins for Full-Stack Developers
+Sublime Text’s default autocomplete considers words that are present in the current file only. The AllAutocomplete plug-in, however, searches all open files to find matches while suggesting words.
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/5.png)
+
+### ```6. Terminal```
+
+Just in case you want to open a terminal in the directory of your current file, this plugin can be of use. However, by default, it sets ```sh Ctrl/Cmd + Shift + t``` as the shortcut for opening the terminal, which is also the shortcut to open the last closed file. You should change either of the shortcuts to be able to use both functionalities!
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/6.png)
+
+
+### ```7. SublimeREPL```
+
+This is probably the most useful plugin for programmers. SublimeREPL lets you run an interpreter of a range of languages (NodeJS, Python, Ruby, Scala and Haskell to name a few) right inside Sublime Text. Let us run a Python interpreter and see if it works. Perform some list checks and computed 48 raised to the power 100.
+![N|Solid](https://raw.githubusercontent.com/franvergara66/essential-sublime-plugins/master/images/7.png)
